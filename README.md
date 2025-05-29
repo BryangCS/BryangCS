@@ -1,3 +1,4 @@
+![Imagen](img/img_1.png)
 
 - 👋 Hi, I’m @BryangCS
 - 👀 I’m interested in ...
